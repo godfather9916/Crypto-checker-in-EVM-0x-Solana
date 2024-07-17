@@ -8,6 +8,5 @@
 **Crypto checker in all EVM (0x) + Solana**
 
 
-**grap your now**
 
 **Contact: [@rashtug0](https://t.me/rashtug0)**
